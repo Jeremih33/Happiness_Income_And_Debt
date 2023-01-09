@@ -8,6 +8,8 @@ Table of Contents:
     A. CSV Files 
       1. State_Financial_Info.csv is read using our python file
       2. total_debt_population_happiness.csv is output by our python file after joining across many dataframes
+    B. .twbx file (Tableau)
+    C. .ipynb file (Python)
 
 To read our tableau workbook, we can open our .twbx file with Tableau reader or Tableau Desktop.
 Our .ipynb python file can be read in a number of ways. I used google Colab. To use google colab, upload the file to google drive and then head over to colab to open the file. Our state_financial_info.csv will need to uploaded to our files folder.
